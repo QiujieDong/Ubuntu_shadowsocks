@@ -50,7 +50,4 @@ file:///home/abc/snap/Shadows/autoproxy.pac
 
 配置完成后,这时候打开客户端,在运行就可以使用了.
 --------------------- 
-作者：perfect_accepted 
-来源：CSDN 
-原文：https://blog.csdn.net/perfect_accepted/article/details/81512753?utm_source=copy 
-版权声明：本文为博主原创文章，转载请附上博文链接！
+
